@@ -1,4 +1,4 @@
-GRADUATE ANALYSIS AND ADMISSION PREDICTION MACHINE LEARNING MODEL 
+#GRADUATE ANALYSIS AND ADMISSION PREDICTION MACHINE LEARNING MODEL 
 
 •	Developed a predictive model for graduate admissions using logistic regression, SVM, random forest, decision tree, and KNN, achieving an accuracy of X%.  
 •	Collected, cleaned, and preprocessed data, including handling missing values and feature engineering.  
